@@ -1,1 +1,2 @@
-This File contains the deplyoment script 
+This File contains the deplyoment script
+added some stages logic...
