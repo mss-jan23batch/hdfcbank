@@ -1,5 +1,5 @@
-
 This is the master branch code 
+This is the master branch code
 
 Hello guys This file contains the datebase related code
 
